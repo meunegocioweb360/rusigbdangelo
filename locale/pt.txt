@@ -11,12 +11,10 @@ tour.name = Rusig Boulevard D'angelo - Tour virtual 360°
 ## Skin
 
 ### Button
-Button_0051E2B6_15A0_6773_4196_CBDD0AB3ED18.label = Área de alimentaçao
-Button_0051E2B6_15A0_6773_4196_CBDD0AB3ED18_mobile.label = Área de alimentaçao
-Button_03D37B27_0C7A_63B3_41A1_89572D8C8762.label = NOSSOS CONTATOS
-Button_03D37B27_0C7A_63B3_41A1_89572D8C8762_mobile.label = NOSSOS CONTATOS
-Button_07363D16_15A0_7D33_41B1_379D39C51304.label = Drone
-Button_07363D16_15A0_7D33_41B1_379D39C51304_mobile.label = Drone
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762.label = Nossos Contatos
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762_mobile.label = Nossos Contatos
+Button_05D00697_169E_6895_418E_1B382718611B.label = Imagem Aérea
+Button_05D00697_169E_6895_418E_1B382718611B_mobile.label = Imagem Aérea
 Button_1830D20E_17B1_6AC3_4198_688BED36E073.label = CONTACT
 Button_1830D20E_17B1_6AC3_4198_688BED36E073_mobile.label = CONTACT
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
@@ -40,18 +38,18 @@ HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08_mobile.html = <div style="text-ali
 
 ### Title
 panorama_186C4FD2_15A0_5D33_41B1_05B69FA359AA.label = Entrada
+panorama_18B2E578_168A_699B_416A_61739E39EB0C.label = Drone Ok
 panorama_19612473_15A0_23F2_41A8_B16E4900DEF8.label = 3
 panorama_1961C108_15A0_E51E_4183_037D4CE186D2.label = Fachada
 panorama_1961F798_15A0_ED3E_41A2_9CC22703CA61.label = Área de alimentação
 panorama_1961FE15_15A0_DF36_417E_09186165F6E6.label = 4
 panorama_19626AAF_15A0_2711_41B3_F33DE39D4854.label = 2
-panorama_35B29BC5_15E0_2511_41AE_00D15BE8BFBE.label = Drone
 video_1BD8EF8C_15A3_FD17_41B2_521AB3EBB433.label = mp4
 
 ## Action
 
 ### URL
-LinkBehaviour_02B28DB5_15E0_5D71_4166_97F56441F971.source = https://linklist.bio/rusigbdangelo
-LinkBehaviour_02BBBDC9_15E0_5D11_41AF_8E0F375266CD.source = http://www.loremipsum.com
+LinkBehaviour_02883445_1686_2FF5_4180_D6C640A23E81.source = http://www.loremipsum.com
+LinkBehaviour_028C3428_1686_2FBB_41AF_D3FEA3664076.source = https://linklist.bio/rusigbdangelo
 LinkBehaviour_1A354337_15A0_6572_41B1_3FA2549F5398.source = http://www.loremipsum.com
 LinkBehaviour_38CD8354_1660_6537_41A2_B6C73AA67896.source = https://linklist.bio/rusigbdangelo

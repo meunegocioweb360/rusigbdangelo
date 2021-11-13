@@ -37,9 +37,9 @@
   }
  ],
  "name": "Rusig Boulevard D'angelo - Tour virtual 360°",
- "description": "Rua Sábbado D’Angelo, 377 - Itaquera, São Paulo - SP, 08210-790",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF",
- "start_url": "index.htm"
+ "display": "fullscreen",
+ "description": "Rua Sábbado D’Angelo, 377 - Itaquera, São Paulo - SP, 08210-790",
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF"
 }
